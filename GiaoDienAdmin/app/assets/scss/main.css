@@ -1,0 +1,61 @@
+*,
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  font-family: "Source Sans Pro", sans-serif;
+  color: #565656; }
+
+ul {
+  margin-top: 1rem; }
+
+i {
+  font-size: 1.2rem; }
+
+a:hover {
+  transition: all 0.5s;
+  text-decoration: none; }
+
+.bg--img {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 620px;
+  position: relative; }
+
+.footer {
+  background: #1B5E20;
+  padding: 5rem 0; }
+  .footer h1 {
+    padding-bottom: 2rem; }
+  .footer .footer__educate p {
+    font-size: 1.2rem;
+    color: white; }
+  .footer .footer__news .info__news a img {
+    float: left;
+    margin-right: 10px;
+    width: 90px;
+    height: 90px; }
+  .footer .footer__news .info__news a h5 {
+    margin: 5px 0;
+    line-height: 22px;
+    margin-bottom: 2rem;
+    color: white !important; }
+  .footer .footer__news .info__news a .calender {
+    color: #84c125 !important;
+    margin-bottom: 1.5rem; }
+  .footer .footer__links .links__menuNav ul {
+    line-height: 35px;
+    list-style: outside none none;
+    margin: 0;
+    overflow: hidden;
+    padding: 0; }
+    .footer .footer__links .links__menuNav ul li {
+      float: left;
+      width: 50%; }
+      .footer .footer__links .links__menuNav ul li a {
+        font-size: 1.2rem;
+        color: white !important; }
+
+/*# sourceMappingURL=main.css.map */
